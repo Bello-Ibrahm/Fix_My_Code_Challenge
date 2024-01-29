@@ -2,7 +2,7 @@
 """ Square class module """
 
 
-class Square:
+class Square():
     """ Square class """
     width = 0
     height = 0
@@ -27,7 +27,7 @@ class Square:
 
 if __name__ == "__main__":
     """ Create a square object """
-    s = square(width=12, height=9)
+    s = Square(width=12, height=9)
     print(s)
     print(s.area_of_my_square())
     print(s.PermiterOfMySquare())
