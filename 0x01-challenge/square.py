@@ -2,7 +2,7 @@
 """ Comment """
 
 
-class square:
+class Square():
     """ Comment """
 
     width = 0
