@@ -1,6 +1,8 @@
 #!/usr/bin/python3
+""" Comment """
 
-class Square():
+
+class Square:
     width = 0
     height = 0
 
